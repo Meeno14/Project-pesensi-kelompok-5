@@ -1,0 +1,218 @@
+{
+  "users": [
+    {
+      "nama": "Helmi Abdillah",
+      "email": "fsjfkjsj@gmail.com",
+      "nisn": "741741747348927389",
+      "password": "boobs",
+      "role": "siswa",
+      "id": 0
+    },
+    {
+      "nama": "Budi Kurandi",
+      "email": "xcoapr62gmail.com",
+      "nisn": "46456444631679633",
+      "password": "11223344",
+      "role": "siswa",
+      "id": 1
+    },
+    {
+      "nama": "Yani Oktavia",
+      "email": "mwixzsmkpq@gmail.com",
+      "nisn": "98732164798238987",
+      "password": "12121212",
+      "role": "siswa",
+      "id": 2
+    },
+    {
+      "nama": "Septa Putri",
+      "email": "vkapwkry63@gmail.com",
+      "nisn": "89761234968745312645",
+      "password": "87654321",
+      "role": "siswa",
+      "id": 3
+    },
+    {
+      "nama": "Agung Saputra",
+      "email": "zcojaofje@gmail.com",
+      "nisn": "798432168748756431",
+      "password": "qwertyui",
+      "role": "siswa",
+      "id": 4
+    },
+    {
+      "nama": "Wanto Diman",
+      "email": "joklxjcoi@gmail.com",
+      "password": "31415926",
+      "role": "dosen",
+      "id": 5
+    },
+    {
+      "nama": "Sarno Suparto",
+      "email": "124nmzjxklg@gmail.com",
+      "password": "tebakaja",
+      "role": "dosen",
+      "id": 6
+    },
+    {
+      "nama": "Agus Suparjo",
+      "email": "gamerganteng@gmail.com",
+      "password": "12345678",
+      "role": "dosen",
+      "id": 7
+    },
+    {
+      "nama": "Bob",
+      "email": "sexyman@gmail.com",
+      "password": "P@$$w0rd",
+      "role": "admin",
+      "id": 8
+    },
+    {
+      "nama": "Gandewa Saefullah",
+      "email": "sjfsjfsji@gmail.com",
+      "nisn": "7445643216765",
+      "password": "789456123",
+      "role": "siswa",
+      "id": 9
+    }
+  ],
+  "edit": [
+    {
+      "id": 1,
+      "name": "INGRID SURYANTI SURONO",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqoMeLeutmoADcauftppmB7024MwiOtgxg8X5eSg09mARDSO9SwmVEcQjrNQcctOAbJFc&usqp=CAU",
+      "perguruantinggi": "UNIVERSITAS BINA NUSANTARA",
+      "role": "dosen",
+      "jeniskelamin": "Perempuan"
+    },
+    {
+      "id": 2,
+      "name": "JIMMY SADELI, M.M",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS61S9yQKZMP5EnhTrAm9hjfH-CEdDgkFgg8MjIysnW2pnpTAFz4dR4eObSSJqWt6eC39M&usqp=CAU",
+      "perguruantinggi": "UNIVERSITAS BINA NUSANTARA",
+      "role": "dosen",
+      "jeniskelamin": "Laki-Laki"
+    },
+    {
+      "id": 3,
+      "name": "Dr. TITIK INDRAWATI, SE., ME.",
+      "foto": "http://2.bp.blogspot.com/-CTSn1GbPJgA/VZS1412CK3I/AAAAAAAAY-o/CA3s5thrcsc/s1600/DSCF1526%2Bmerah-biru.jpg",
+      "perguruantinggi": "UNIVERSITAS BINA NUSANTARA",
+      "role": "dosen",
+      "jeniskelamin": "Perempuan"
+    },
+    {
+      "id": 4,
+      "name": "Fredy Purnomo, S.Kom., M.Kom",
+      "foto": "https://www.binus.edu/wp-content/uploads/2019/07/Fredy-Purnomo-S.Kom_.-M.Kom2_.png",
+      "perguruantinggi": "UNIVERSITAS BINA NUSANTARA",
+      "role": "dosen",
+      "jeniskelamin": "Laki-laki"
+    },
+    {
+      "id": 5,
+      "name": "ADITYA SEPTA SETYA BUDI",
+      "foto": "https://www.binus.edu/wp-content/uploads/2020/06/0-1.jpg",
+      "jurusan": "Sistem Informasi",
+      "role": "siswa",
+      "jeniskelamin": "Laki-Laki"
+    },
+    {
+      "id": 6,
+      "name": "LINDA",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo51nlw2TaKqbkoYGTEpY_b4NtIMsDXKWTx56WRysugLQhIKtyFEweC9X5lwsGAPZcViI&usqp=CAU",
+      "jurusan": "Sastra Chinas",
+      "role": "siswa",
+      "jeniskelamin": "Perempuan"
+    },
+    {
+      "id": 7,
+      "name": "DENY RAHARDJO",
+      "foto": "https://media-exp1.licdn.com/dms/image/C5603AQEopELq7UJfbQ/profile-displayphoto-shrink_200_200/0/1604323502154?e=1640822400&v=beta&t=mKAoagtM-1e8-Zs4VJPZJl7ZtSyVp6lqY8pZSMlT27U",
+      "jurusan": "Teknik Informatika",
+      "role": "siswa",
+      "jeniskelamin": "Laki-Laki"
+    },
+    {
+      "id": 8,
+      "name": "HENDY WIJAYA S.T., M.T.",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSE0iYHP0e-6zsQ685iuQ2g6CNNzMLhSE0sOFQkaHGredxPAUyvgKVC0lx03QajJNFVS8&usqp=CAU",
+      "jurusan": "TEKNIK SIPIL",
+      "role": "siswa",
+      "jeniskelamin": "Laki-Laki"
+    },
+    {
+      "id": 9,
+      "name": "HELMI",
+      "foto": "https://i.pinimg.com/474x/97/7f/e7/977fe798cf2c3a037e7aa9af6ce4b9d1.jpg",
+      "role": "admin",
+      "jeniskelamin": "Laki-Laki"
+    },
+    {
+      "id": 10,
+      "name": "ORLYNZ",
+      "foto": "https://i.pinimg.com/474x/97/7f/e7/977fe798cf2c3a037e7aa9af6ce4b9d1.jpg",
+      "role": "admin",
+      "jeniskelamin": "Laki-Laki"
+    },
+    {
+      "id": 11,
+      "name": "RAFI",
+      "foto": "https://i.pinimg.com/474x/97/7f/e7/977fe798cf2c3a037e7aa9af6ce4b9d1.jpg",
+      "role": "admin",
+      "jeniskelamin": "Laki-Laki"
+    }
+  ],
+  "absen": [
+    {
+      "nama": "Helmi Abdillah",
+      "tanggal": "2021-11-19",
+      "presensi": "Hadir",
+      "id": 1
+    },
+    {
+      "nama": "Helmi Abdillah",
+      "tanggal": "2021-11-19",
+      "presensi": "Hadir",
+      "id": 2
+    },
+    {
+      "nama": "Helmi Abdillah",
+      "tanggal": "2021-11-21",
+      "presensi": "Hadir",
+      "id": 3
+    },
+    {
+      "nama": "Helmi Abdillah",
+      "tanggal": "2021-11-20",
+      "presensi": "Hadir",
+      "id": 5
+    },
+    {
+      "nama": "Helmi Abdillah",
+      "tanggal": "2021-11-22",
+      "presensi": "Hadir",
+      "id": 6
+    },
+    {
+      "nama": "Helmi Abdillah",
+      "tanggal": "2021-11-20",
+      "presensi": "Hadir",
+      "id": 7
+    },
+    {
+      "nama": "Helmi Abdillah",
+      "tanggal": "2021-11-20",
+      "presensi": "Hadir",
+      "id": 8
+    },
+    {
+      "nama": "Agus Suparjo",
+      "tanggal": "2021-11-20",
+      "presensi": "Hadir",
+      "materi": "dsdfxcvxcbgfdh",
+      "id": 9
+    }
+  ]
+}
