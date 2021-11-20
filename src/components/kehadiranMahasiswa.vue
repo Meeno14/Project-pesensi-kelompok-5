@@ -13,13 +13,10 @@
           <th>Kehadiran</th>
           <th>Persentase</th>
         </tr>
-        <tr
-          v-for="(user, index) in (daftarSiswa, absen in hadir)"
-          :key="user.index"
-        >
+        <tr v-for="(user, index) in daftarSiswa" :key="user.index">
           <td>{{ index + 1 }}</td>
           <td>{{ user.nama }}</td>
-          <td>{{ percent }}</td>
+          <td>{{ user.hadir }}</td>
           <td>{{ Math.ceil((user.hadir / 17) * 100) }} %</td>
         </tr>
       </table>
